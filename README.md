@@ -1,6 +1,7 @@
 # Dark Theme Template
 
 ![Alt text](public/image.png)
+<a href="https://dark-theme-template-three.vercel.app">Site Preview</a>
 
 ## Description
 This template uses a class directive to toggle dark mode theme with Tailwind CSS.
