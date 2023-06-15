@@ -1,5 +1,7 @@
 # Dark Theme Template
 
+![Alt text](public/image.png)
+
 ## 🔥 Features
 - Dark toggle class html with Tailwind (https://tailwindcss.com/docs/dark-mode)
 - Local Storage with just one useEffectd
