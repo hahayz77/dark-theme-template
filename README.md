@@ -8,7 +8,7 @@
 ## Example
 
 >page.jsx
-<pre>
+<pre  lang="javascript">
 const [darkMode, setDarkMode] = useState(); //boolean value
 
 useEffect(() => {
@@ -24,4 +24,10 @@ useEffect(() => {
         localStorage.setItem('darkMode', JSON.stringify(!darkMode));
         setDarkMode(!darkMode);
     };
+</pre>
+
+<pre  lang="javascript">
+    onClick={toggleDarkMode}>
+    //...
+    {darkMode ? "🌚" : "🌞"}
 </pre>
