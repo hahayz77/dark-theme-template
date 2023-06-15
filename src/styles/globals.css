@@ -16,5 +16,5 @@ main{
 }
 
 h1 {
-  @apply text-6xl font-semibold font-mono
+  @apply text-6xl font-semibold font-mono my-16 pl-4 sm:pl-0
 }
